@@ -17,3 +17,5 @@ This directory contains implementations of various reinforcement learning algori
 -   `ActorCritic.ipynb`
 -   `PPO.ipynb`
 -   `QActorCritic.ipynb`
+-   `QNet.ipynb`
+-   `TD_AC.ipynb`
