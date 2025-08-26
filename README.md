@@ -1,7 +1,7 @@
 # Reinforcement_Learning
 RL Study Records
 
-## RL_rho
+## Codes
 
 This directory contains implementations of various reinforcement learning algorithms.
 
